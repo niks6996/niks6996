@@ -21,7 +21,7 @@ DevOps Engineer focused on cloud infrastructure, Kubernetes, deployment automati
 
 My portfolio includes a Terraform-based AWS EKS platform, a last-mile tracking deployment pipeline tested on EKS, and a logistics observability project.
 
-I’m interested in DevOps, Platform and Cloud Engineer opportunities where I can contribute to reliable infrastructure and delivery automation.
+I am interested in DevOps, Platform and Cloud Engineer opportunities where I can contribute to reliable infrastructure and delivery automation.
 
 ## 🌐 Connect
 
